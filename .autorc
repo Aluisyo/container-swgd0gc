@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Aluisyo",
+  "repo": "container-swgd0gc",
+  "name": "Aluisyo",
+  "email": "suzyoeliasnyirenda@gmail.com",
+}
